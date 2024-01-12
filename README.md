@@ -1,2 +1,7 @@
-# git_hub-workshop
-This is my first repository<br>It was innovative
+# Hello-world
+#include<stdio.h>
+void main()
+{
+  printf("Hello\n");
+printf("How are you\n")
+} 
